@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T15:24:20.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Z7yY46Js1Ve3s-gBTKwl" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T15:24:53.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4dWe-O2eUggCl3A1zYB_" version="20.4.0" type="github">
   <diagram id="0rBzUbckFemJIuANetFq" name="Seite-1">
     <mxGraphModel dx="2858" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="jQemTqp7grLnhRWUzKIH-12" value="Website" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-13" value="PresentationApi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jQemTqp7grLnhRWUzKIH-13" value="Api&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="180" width="80" height="140" as="geometry" />
+          <mxGeometry x="-70" y="170" width="80" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.954;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="jQemTqp7grLnhRWUzKIH-15" target="jQemTqp7grLnhRWUzKIH-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_reddit_robot-128.png" parent="1" vertex="1">
-          <mxGeometry x="-230" y="475" width="128" height="128" as="geometry" />
+          <mxGeometry x="-60" y="400" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="jQemTqp7grLnhRWUzKIH-18" target="jQemTqp7grLnhRWUzKIH-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
