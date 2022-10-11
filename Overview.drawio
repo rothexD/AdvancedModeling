@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T15:26:21.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QGUXR15lcPmg_vSA6AU4" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T16:19:33.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iD7kNqwdDpTEbTY4irW7" version="20.4.0" type="github">
   <diagram id="0rBzUbckFemJIuANetFq" name="Seite-1">
-    <mxGraphModel dx="2858" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2424" dy="2146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,17 +19,11 @@
         <mxCell id="jQemTqp7grLnhRWUzKIH-5" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="1110" y="370" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-6" value="Microservice ec2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jQemTqp7grLnhRWUzKIH-6" value="Image diffusion service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-7" value="Microservice ec2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-8" value="Microservice ec2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jQemTqp7grLnhRWUzKIH-8" value="Input Sanitation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-9" value="Microservice ec2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-11" value="DiscordBot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
@@ -38,7 +32,7 @@
           <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-13" value="Api&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jQemTqp7grLnhRWUzKIH-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="170" width="80" height="140" as="geometry" />
@@ -73,7 +67,7 @@
             <mxPoint x="740" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQemTqp7grLnhRWUzKIH-29" value="Microservice ec2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jQemTqp7grLnhRWUzKIH-29" value="Input Validation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
